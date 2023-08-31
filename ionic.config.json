@@ -1,0 +1,7 @@
+{
+  "name": "phrase-modal-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
