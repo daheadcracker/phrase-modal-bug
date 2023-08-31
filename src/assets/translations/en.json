@@ -1,0 +1,9 @@
+{
+  "account": {
+    "accountText": "Account",
+    "emailText": "Email Address",
+    "firstNameText": "First Name",
+    "lastNameText": "Last Name",
+    "save": "Save"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "account": {
+    "accountText": "Konto",
+    "emailText": "E-Mail-Adresse",
+    "firstNameText": "Vorname",
+    "lastNameText": "Nachname",
+    "save": "Speichern"
+  }
+}
